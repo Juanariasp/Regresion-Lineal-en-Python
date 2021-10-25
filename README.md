@@ -14,6 +14,6 @@
 </FONT>
 </div>
 
-*   Carpeta /Regresion Lineal C++
-En esta carpeta se encuentran todos los ficheros fuentes del programa LR en C++ en 
+*   Carpeta /Regresion Lineal C++ <br>
+> En esta carpeta se encuentran todos los ficheros fuentes del programa LR en C++, incluyendo las clases (.cpp) y sus correspondientes interfaces (.h)  
 *   Carpeta /Regresion Lineal C++
