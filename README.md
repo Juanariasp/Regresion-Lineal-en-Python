@@ -16,4 +16,5 @@
 
 *   Carpeta /Regresion Lineal C++ <br>
 > En esta carpeta se encuentran todos los ficheros fuentes del programa LR en C++, incluyendo las clases (.cpp) y sus correspondientes interfaces (.h)  
-*   Carpeta /Regresion Lineal C++
+*   Carpeta /Regresion Lineal Python
+> Se encuentra un cuaderno notebook (.ipynb) donde presenta la verificación de los coeficientes de LR dados por SkLearn
