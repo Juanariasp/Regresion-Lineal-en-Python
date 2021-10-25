@@ -1,0 +1,3 @@
+/home/juanes/JuanesU/C++/QT/RegresionLineal/Debug/CMakeFiles/rebuild_cache.dir
+/home/juanes/JuanesU/C++/QT/RegresionLineal/Debug/CMakeFiles/edit_cache.dir
+/home/juanes/JuanesU/C++/QT/RegresionLineal/Debug/CMakeFiles/RegresionLineal.dir
