@@ -14,5 +14,6 @@
 </FONT>
 </div>
 
-*   Elemento de la lista
-*   Elemento de la lista
+*   Carpeta /Regresion Lineal C++
+En esta carpeta se encuentran todos los ficheros fuentes del programa LR en C++ en 
+*   Carpeta /Regresion Lineal C++
